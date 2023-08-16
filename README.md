@@ -7,10 +7,9 @@
 <h3 align="center">- 📙 currently learning: learning and re-learning 😁️</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/GyimahAnnor" target="blank"><img align="center" src="https://github.com/felaris/felaris/blob/master/images/icons8-twitter-circled.gif?raw=true" alt="Twitter Icon" height="50" width="50" /></a>
+<a href="https://twitter.com/GyimahAnnor" target="blank"><img align="center" src="https://github.com/felaris/felaris/blob/master/images/icons8-twitter-circled.gif?raw=true" alt="Twitter Icon" height="50px" width="50px" /></a>
 <a   href="https://www.instagram.com/its_gyimah/" target='_blank'> <img src="https://github.com/felaris/felaris/blob/master/images/icons8-instagram.gif?raw=true" alt ="Instagram icon"   width="50px" height="50px"  >  </a>
 <a  href="www.linkedin.com/in/annor-gyimah/" target="_blank"><img src="https://github.com/felaris/felaris/blob/master/images/icons8-linkedin-circled.gif?raw=true" alt = "Linkedin icon"    width="50px" height="50px"></a>
-<a  href="eannor707@gmail.com" target="_blank"><img src="https://iconscout.com/icon/gmail-2981844" alt = "Gmail icon"    width="50px" height="50px"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
