@@ -18,14 +18,15 @@
 
 
 ## My Stats:
+![My Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annor-Gyimah&langs_count=10&layout=compact&theme=radical&border_color=61dafb&border_radius=10)
+![My github Stats](https://github-readme-stats.vercel.app/api?username=Annor-Gyimah&show_icons=true&theme=radical&border_color=61dafb&border_radius=10)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Annor-Gyimah&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/Annor-Gyimah/count.svg" alt ="Loading">
 
-
+<!--
 ## Open Source Projects I am currently working on ?
 
 <br>
@@ -36,7 +37,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=Annor-Gyimah&repo=socke~tra&theme=radical&border_color=61dafb&border_radius=10" />
     </a>
 </div>
-
+-->
 
 
 
