@@ -1,5 +1,4 @@
 
-<div>
 
 
 <h1 align="center">Hi 👋, I'm Annorion</h1>
@@ -26,7 +25,7 @@
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/Annor-Gyimah/count.svg" alt ="Loading">
 
-
+<!---
 ## Open Source Projects I am currently working on ?
 
 <br>
@@ -37,7 +36,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=Annor-Gyimah&repo=socketra&theme=radical&border_color=61dafb&border_radius=10" />
     </a>
 </div>
-
+->
 
 
 
