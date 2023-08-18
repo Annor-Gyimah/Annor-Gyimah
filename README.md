@@ -1,38 +1,68 @@
+<p align="center">Hi 👋, I'm Annorion</p>
 
+###
 
+<p align="center">A passionate developer from Ghana</p>
 
-<h1 align="center">Hi 👋, I'm Annorion</h1>
-<h3 align="center">A passionate developer from Ghana</h3>
-<h3 align="center">- 📙 currently learning: learning and re-learning 😁️</h3>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/GyimahAnnor" target="_blank"><img src="https://github.com/felaris/felaris/blob/master/images/icons8-twitter-circled.gif?raw=true" alt="Twitter Icon" height="50px" width="50px" /></a>
-<a   href="https://www.instagram.com/its_gyimah/" target='_blank'> <img src="https://github.com/felaris/felaris/blob/master/images/icons8-instagram.gif?raw=true" alt ="Instagram icon"   width="50px" height="50px"  >  </a>
-<a  href="www.linkedin.com/in/annor-gyimah/" target="_blank"><img src="https://github.com/felaris/felaris/blob/master/images/icons8-linkedin-circled.gif?raw=true" alt = "Linkedin icon"    width="50px" height="50px"></a>
-</p>
+###
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="jupyter notebook" width="40" height="40"/></a> </p>
+<p align="center">- 📙 currently learning: learning and re-learning 😁️</p>
 
+###
 
-## My Stats:
-![My Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annor-Gyimah&langs_count=10&layout=compact&theme=radical&border_color=61dafb&border_radius=10)
-![My github Stats](https://github-readme-stats.vercel.app/api?username=Annor-Gyimah&show_icons=true&theme=radical&border_color=61dafb&border_radius=10)
+<p align="center">Connect with me:</p>
 
+###
 
+<div align="center">
+  <a href="www.linkedin.com/in/annor-gyimah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/GyimahAnnor" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/its_gyimah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/Annor-Gyimah/count.svg" alt ="Loading">
+###
 
+<p align="center">Languages and Tools:</p>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Annor-Gyimah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Annor-Gyimah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<img src="https://raw.githubusercontent.com/Annor-Gyimah/Annor-Gyimah/output/snake.svg" alt="Snake animation" />
 
+###
 
-
-
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Annor-Gyimah/count.svg?"  />
+</div>
